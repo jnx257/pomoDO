@@ -1,0 +1,10 @@
+.todo__title {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.todo__inputs {
+  display: flex;
+  gap: 0.5rem;
+}

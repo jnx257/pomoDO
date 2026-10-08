@@ -7,3 +7,8 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+## RAZÃO DO PROJETO:
+
+Esse projeto é pra ser feito inteiramente manual, a utilização de LLM com ele é estritamente para tirar dúvidas de padrões de mercados e a razão de sua utilização dessa forma.
+Explicando desde conceitos computacionais à mais profundamente sobre a biblioteca React e o framework Next.js.
